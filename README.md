@@ -4,7 +4,7 @@ Hola! 👋
 
 Desarrollador Full Stack Jr. con un año de experiencia, especializado en React.js para el Front-End y en Node.js, Express, Sequelize y PostgreSQL para el Back-End. Apasionado por construir soluciones sólidas y eficientes. Comprometido con la excelencia técnica y en constante búsqueda de oportunidades para crecer en el mundo del desarrollo.
 
-<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
