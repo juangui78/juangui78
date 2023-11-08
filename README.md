@@ -1,9 +1,10 @@
-### Hi there 👋
+Hola! 👋
 
-<!--
-**juangui78/juangui78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Desarrollador Full Stack Jr. con un año de experiencia, especializado en React.js para el Front-End y en Node.js, Express, Sequelize y PostgreSQL para el Back-End. Apasionado por construir soluciones sólidas y eficientes. Comprometido con la excelencia técnica y en constante búsqueda de oportunidades para crecer en el mundo del desarrollo.
+
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
