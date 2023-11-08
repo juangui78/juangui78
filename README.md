@@ -1,6 +1,7 @@
 Hola! 👋
 
-![e426702edf874b181aced1e2fa5c6cde](https://github.com/juangui78/juangui78/assets/118124647/578e8c7b-18ab-47ce-8821-9067f5960ea7)
+![coding](https://github.com/juangui78/juangui78/assets/118124647/c83ee5fa-e196-4b10-9a0a-dd50eba5d2e9)
+
 
 
 Desarrollador Full Stack Jr. con un año de experiencia, especializado en React.js para el Front-End y en Node.js, Express, Sequelize y PostgreSQL para el Back-End. Apasionado por construir soluciones sólidas y eficientes. Comprometido con la excelencia técnica y en constante búsqueda de oportunidades para crecer en el mundo del desarrollo.
@@ -18,6 +19,7 @@ Tecnologias que he usado!
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+![e426702edf874b181aced1e2fa5c6cde](https://github.com/juangui78/juangui78/assets/118124647/578e8c7b-18ab-47ce-8821-9067f5960ea7)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
